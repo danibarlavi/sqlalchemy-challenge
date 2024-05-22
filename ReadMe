@@ -1,0 +1,5 @@
+Thank you for grading this module challenge.
+
+I had help from ChatGPT with a lot of error handling and code-syntax checking for SQLLite and SQLAlchemy. Particularly helped me with converting the strings to a proper date format for the steps that required dates.
+
+I also referenced in-class materials, especially the 'Flask with ORM' sample and the 'Surfer_Class' sample. 
